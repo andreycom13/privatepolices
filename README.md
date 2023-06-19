@@ -306,6 +306,7 @@ The user has the right to opt out of such advertising at any time.
 by doing the following:
 Buy a subscription in the game store
 7. SENDING COMPLAINTS AND REQUESTS TO THE RIGHT HOLDER
+https://appodeal.com/privacy-policy/
 Request to stop processing personal data
 Each User has the right to express his objection
 To the right holder against the processing and / or storage of his Personal
@@ -328,7 +329,7 @@ Personal data, if such action would lead (1) to a breach
 the rules of this Policy; or (2) in violation of the Law; (3) character
 Personal data is evidence in any judicial
 process that has arisen between the Copyright Holder and the User.
-8. TERMS AND PROCEDURE FOR STORING PERSONAL DATA
+9. TERMS AND PROCEDURE FOR STORING PERSONAL DATA
 Storage is carried out by third parties on behalf of the Copyright Holder.
 The User agrees to the storage of his Personal Data
 by third parties on behalf of the Copyright Holder, subject to the preservation
@@ -350,7 +351,7 @@ Storage is carried out for the entire period necessary for
 achieve the stated purposes of processing Personal Data.
 The right holder undertakes immediately after the achievement of the purposes of processing
 Destroy or depersonalize personal data.
-9. ACCESS OF MINORS TO MOBILE
+10. ACCESS OF MINORS TO MOBILE
 APPENDIX
 Users in the Russian Federation
 The mobile application can be used by persons under the age of 18
@@ -379,7 +380,7 @@ representative (guardian) for the processing of personal data, which
 must be provided in the following way:
 send a scanned copy of your passport to arpgamesstudio@gmail.com
 12/14
-10. PERSONAL DATA PROTECTION
+11. PERSONAL DATA PROTECTION
 Protecting the privacy of Personal Data is
 a primary and important task for the Copyright Holder. Copyright holder
 adheres to all required international standards, regulations and
@@ -387,7 +388,7 @@ recommendations for the protection of Personal Data.
 The right holder has introduced a number of technical and organizational methods,
 aimed at protecting Personal Data from disclosure or
 unauthorized access by third parties.
-11. USERS ON THE TERRITORY
+12. USERS ON THE TERRITORY
 EUROPEAN UNION
 General provisions
 Since the Mobile Application is available to users from
@@ -419,7 +420,7 @@ destruction of Personal Data ("the right to erasure"); and (5) the right to
 restriction of the processing of Personal Data ("the right to restrict
 processing"); and (6) the right to transfer Personal Data to third parties
 ("the right to data portability"); and (7) the right to object ("the right to object").
-12. FINAL PROVISIONS
+13. FINAL PROVISIONS
 Availability of policy text for review
 Users can review the terms of this Policy at
 following link: https://andreycom13.github.io/privatepolices/.
